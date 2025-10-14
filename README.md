@@ -106,7 +106,4 @@
   <a href="https://www.docker.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
   </a>
-  <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
-  </a>
 </p>
