@@ -17,7 +17,11 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=MikelCruz&theme=dark&hide_border=true&border_radius=14&">  
+  <!-- TODO: Upload readme Streak into vercelapp? Example here -->
+  <!-- <img src = "https://github-readme-streak-stats.herokuapp.com?user=MikelCruz&theme=dark&hide_border=true&border_radius=14&">  -->
+  
+  <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=mikelcruz&theme=dark&hide_border=true&border_radius=14&"/>
+
 </p>
 
 <!-- TODO: More "About me"? -->
